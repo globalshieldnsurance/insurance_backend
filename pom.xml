@@ -10,6 +10,7 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.7.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
+access_token = "asdasdasdasdasdasdasdasdasdasdasdasdasd"
 	</parent>
 	<groupId>com.hcl</groupId>
 	<artifactId>einsurance</artifactId>
